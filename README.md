@@ -32,9 +32,7 @@ solving programming problems, and learning new technologies.
 ### Backend
 - Python
 - Django
-- Flask
 - Node.js
-- Express.js
 
 ### Database
 - MySQL
