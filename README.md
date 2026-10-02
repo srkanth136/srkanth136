@@ -54,10 +54,6 @@ instructors, courses, enrollments, and academic reports.
 A web application for collaborative document editing using React,
 Node.js, and MongoDB.
 
-### ⏱️ Chrome Extension for Time Tracking
-A Chrome extension that tracks website usage and provides
-productivity analytics.
-
 ### 🛒 E-Commerce Website
 A MERN stack e-commerce application with authentication,
 products, cart, checkout, and payment functionality.
