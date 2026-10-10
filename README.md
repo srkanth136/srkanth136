@@ -36,7 +36,6 @@ solving programming problems, and learning new technologies.
 
 ### Database
 - MySQL
-- MongoDB
 
 ### Tools
 - Git
